@@ -30,9 +30,9 @@ Scores by school size analysis You can see that Thomas High School fell into the
 
 ### Scores by school type:
 
-![election_results_screenshot.png](election_results_screenshot.png)
+![Scores_By_School_Type.png](Scores_By_School_Type.png)
 
-Scores by school type analysis Average scores in math and reading dropped from 83.5 to 80.5 and from 83.9 to 80.9 and the passing rate in math and reading decreased from 94% to 90% and from 97% to 93%, you can see that students who approved decreased from 90% to 87%. Data at rest was not affected.
+Scores by school type analysis Average scores in math and reading dropped from 83.5% to 76.9% and from 83.9% to 80.9% and the passing rate in math and reading decreased from 93.6% to 66.5% and from 96.5% to 80.8%, you can see that students who approved decreased from 90.4% to 53.7%.
 
 ## Summary
 First, the average in math and reading decreased slightly at the district level, but dramatically at the school and grade level after the change. Subsequently Thomas High School, which was ranked second, dropped out of the top 5 schools to rank 8 after the change. As we can see, the percentage of students passing math, reading, and general was also significantly affected at Thomas High School's school and grade level after the change. All academic benchmarks related to math, reading, and overall score dropped dramatically for whatever school type, size, and spending by student category Thomas High School was in.
