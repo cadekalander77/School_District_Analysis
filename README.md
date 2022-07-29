@@ -30,6 +30,8 @@ Scores by school size analysis You can see that Thomas High School fell into the
 
 ### Scores by school type:
 
+![election_results_screenshot.png](election_results_screenshot.png)
+
 Scores by school type analysis Average scores in math and reading dropped from 83.5 to 80.5 and from 83.9 to 80.9 and the passing rate in math and reading decreased from 94% to 90% and from 97% to 93%, you can see that students who approved decreased from 90% to 87%. Data at rest was not affected.
 
 ## Summary
